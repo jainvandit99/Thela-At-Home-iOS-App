@@ -1,0 +1,36 @@
+PODS:
+  - GMStepper (2.2)
+  - Kingfisher (5.10.1):
+    - Kingfisher/Core (= 5.10.1)
+  - Kingfisher/Core (5.10.1)
+  - NVActivityIndicatorView (4.8.0):
+    - NVActivityIndicatorView/Presenter (= 4.8.0)
+  - NVActivityIndicatorView/Presenter (4.8.0)
+  - SkyFloatingLabelTextField (3.8.0)
+  - TransitionButton (0.5.2)
+
+DEPENDENCIES:
+  - GMStepper
+  - Kingfisher (~> 5.0)
+  - NVActivityIndicatorView
+  - SkyFloatingLabelTextField (~> 3.0)
+  - TransitionButton
+
+SPEC REPOS:
+  trunk:
+    - GMStepper
+    - Kingfisher
+    - NVActivityIndicatorView
+    - SkyFloatingLabelTextField
+    - TransitionButton
+
+SPEC CHECKSUMS:
+  GMStepper: 89fb106944dfcc3aa3add7164e3ebd463ea2104b
+  Kingfisher: eb36b7dfcc78d60877051c92c119a2865972961a
+  NVActivityIndicatorView: d24b7ebcf80af5dcd994adb650e2b6c93379270f
+  SkyFloatingLabelTextField: 5a338412114808e961fe2d14ea2c5452c8b6e4aa
+  TransitionButton: fb271583d9c9e4bb116b97103047e5157653f233
+
+PODFILE CHECKSUM: f3c04fb03ac964250890d02daa8c2b5007b0f47a
+
+COCOAPODS: 1.8.4

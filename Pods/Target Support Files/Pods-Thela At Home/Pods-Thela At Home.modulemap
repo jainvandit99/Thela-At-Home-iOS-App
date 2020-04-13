@@ -1,0 +1,6 @@
+framework module Pods_Thela_At_Home {
+  umbrella header "Pods-Thela At Home-umbrella.h"
+
+  export *
+  module * { export * }
+}

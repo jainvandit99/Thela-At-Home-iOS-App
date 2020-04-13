@@ -7,3 +7,13 @@
 //
 
 import Foundation
+
+class Constants {
+    class dev {
+        static var rootURL = "http://localhost:3005/"
+    }
+    class headers{
+        static var accept = "application/json"
+        static var contentType = "application/json"
+    }
+}
